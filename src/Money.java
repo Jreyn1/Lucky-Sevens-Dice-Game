@@ -72,6 +72,7 @@ public class Money
 				System.out.println("This round will play 2:1 odds, yippee");
 				System.out.println("In addition, if you roll a 12 you will also win");
 				System.out.println("This will not count towards your regular round counter");
+				System.out.println();
 				Communicate.askToPlay();
 				Money.pickBet();
 				Money.rollDice();
