@@ -17,6 +17,7 @@ public class RandomNumber
 //				System.out.println(diceRoll1);
 //				System.out.println(diceRoll2);
 //				System.out.println(diceRollTotal);
+				System.out.println("TEST");
 			}
 
 	}
