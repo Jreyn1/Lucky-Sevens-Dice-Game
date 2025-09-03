@@ -20,7 +20,7 @@ public class DiceGamePlayer
 								Money.playBonusRound();
 							}
 					}
-
+				System.out.println("Test");
 			}
-
+		
 	}
